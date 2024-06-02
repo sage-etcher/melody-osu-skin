@@ -4,12 +4,12 @@ approachcircle.png
 126x126
 
 src/hitcircle.svg
-ref: White Wolf v1.0
+ref: White Wolf
 hitcircle.png
 128x128
 
 src/hitcircleoverlay.svg
-ref: White Wolf v1.0
+ref: White Wolf
 hitcircleoverlay
 128x128
 
@@ -40,7 +40,7 @@ followpoint-*.png
 
 
 src/hit0.svg
-ref: White Wolf v1.0
+ref: White Wolf
 hit0.png
 256x256
 sliderendmiss.png
@@ -48,40 +48,40 @@ slidertickmiss.png
 64x64
 
 src/hit50.svg
-ref: White Wolf v1.0
+ref: White Wolf
 hit50.png
 font: Rockletter Simple
 256x256
 
 src/hit100.svg
-ref: White Wolf v1.0
+ref: White Wolf
 hit100.png
 256x256
 
 src/hit100k.svg
-ref: White Wolf v1.0
+ref: White Wolf
 hit100k.png
 256x256
 
 
 
 src/sliderb0.svg
-ref: White Wolf v1.0
+ref: White Wolf
 sliderb0.png
 128x128
 
 src/sliderfollowcircle.svg
-ref: White Wolf v1.0
+ref: White Wolf
 sliderfollowcircle.png
 256x256
 
 src/sliderscorepoint.svg
-ref: White Wolf v1.0
+ref: White Wolf
 sliderscorepoint.png
 16x16
 
 src/reversearrow.svg
-ref: White Wolf v1.0
+ref: White Wolf
 reversearrow.png
 128x128
 
@@ -112,13 +112,13 @@ font: Swatch it
 
 
 src/default-font.svg
-ref: White Wolf v1.0
+ref: White Wolf
 default-*.png
 font: Montara Gothic
 40x60
 
 src/score-font.svg
-ref: White Wolf v1.0
+ref: White Wolf
 score-[0-9].png
 font: GaramonMTSwashCapsW90-Rg
 44x53
