@@ -1,0 +1,153 @@
+src/approachcircle.svg
+ref: +-Re-lief2-+
+approachcircle.png
+126x126
+
+src/hitcircle.svg
+ref: White Wolf v1.0
+hitcircle.png
+128x128
+
+src/hitcircleoverlay.svg
+ref: White Wolf v1.0
+hitcircleoverlay
+128x128
+
+
+
+src/cursor.svg
+ref: boom 0524 edit
+cursor.png
+40x40
+
+src/cursortrail.svg
+ref: boom 0524 edit
+cursortrail.png
+40x40
+
+src/smoke.svg
+ref: boom 0524 edit
+cursorsmoke.png
+10x10
+
+
+
+src/followpoints.svg
+ref: Frostmourne
+followpoint-*.png
+48x48
+
+
+
+src/hit0.svg
+ref: White Wolf v1.0
+hit0.png
+256x256
+sliderendmiss.png
+slidertickmiss.png
+64x64
+
+src/hit50.svg
+ref: White Wolf v1.0
+hit50.png
+font: Rockletter Simple
+256x256
+
+src/hit100.svg
+ref: White Wolf v1.0
+hit100.png
+256x256
+
+src/hit100k.svg
+ref: White Wolf v1.0
+hit100k.png
+256x256
+
+
+
+src/sliderb0.svg
+ref: White Wolf v1.0
+sliderb0.png
+128x128
+
+src/sliderfollowcircle.svg
+ref: White Wolf v1.0
+sliderfollowcircle.png
+256x256
+
+src/sliderscorepoint.svg
+ref: White Wolf v1.0
+sliderscorepoint.png
+16x16
+
+src/reversearrow.svg
+ref: White Wolf v1.0
+reversearrow.png
+128x128
+
+
+
+src/spinner-approachcircle.svg
+ref: Forseen's Temporary Skin
+spinner-approachcircle.png
+384x384
+
+src/spinner-circle.svg
+ref: Forseen's Temporary Skin
+spinner-circle.png
+666x666
+
+src/spinner-clear.svg
+ref: Forseen's Temporary Skin
+spinner-clear.png
+font: Swatch it
+334x145
+
+src/spinner-spin.svg
+ref: Forseen's Temporary Skin
+spinner-spin.png
+font: Swatch it
+334x145
+
+
+
+src/default-font.svg
+ref: White Wolf v1.0
+default-*.png
+font: Montara Gothic
+40x60
+
+src/score-font.svg
+ref: White Wolf v1.0
+score-[0-9].png
+font: GaramonMTSwashCapsW90-Rg
+44x53
+score-x.png
+font: sans-serif
+44x53
+score-percent.png
+font: MikngLiU_JKScs-ExtB
+48x53
+score-comma.png
+font: Gadugi
+22x53
+score-dot.png
+font: GaramonMTSwashCapsW90-Rg
+22x53
+
+
+
+src/empty.svg
+followpoint.png
+hit300.png
+hit300k.png
+hit300g.png
+lighting.png
+sliderendcircle.png
+sliderpoint10.png
+sliderpoint30.png
+spinner-background.png
+spinner-metre.png
+spinner-osu.png
+star2.png
+1x1
